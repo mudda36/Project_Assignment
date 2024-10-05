@@ -1,0 +1,2 @@
+when i fetch the from Api im geting 404 Not found.
+So I created the object and i had completed the given task.
